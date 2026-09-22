@@ -1,2 +1,0 @@
-# Notiphy
-Privacy Policy 
